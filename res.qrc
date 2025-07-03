@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>trap.png</file>
+        <file>title2.png</file>
+        <file>cry.jpg</file>
+        <file>fight.jpg</file>
+    </qresource>
+    <qresource prefix="/n">
+        <file>background.gif</file>
+        <file>doro.gif</file>
+        <file>happy.jpg</file>
+        <file>vs.png</file>
+    </qresource>
+    <qresource prefix="/ne">
+        <file>boss.jpg</file>
+        <file>character.jpg</file>
+        <file>coin.jpg</file>
+        <file>flag.png</file>
+        <file>lock.png</file>
+        <file>think.gif</file>
+        <file>title.png</file>
+    </qresource>
+</RCC>
